@@ -16,13 +16,13 @@ import lib
 with typescript:
 
 ```typescript
-import { CommandLine } from 'simple-cl'
+import { CommandLine } from '@caiorafael/simple-cl'
 ```
 
 with javascript:
 
 ```javascript
-const { CommandLine } = rquire('simple-cl')
+const { CommandLine } = rquire('@caiorafael/simple-cl')
 ```
 
 ## Set cli's informations
